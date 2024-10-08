@@ -1,0 +1,135 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "El CV es: ",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Es un documento que resume y organiza de forma sintética la información personal, las experiencias laborales y educativas. Le permite identificar al reclutador si tus características se ajustan a las necesidades específicas del puesto de trabajo que se pretende cubrir.",
+        "Devolucion": "Correcto",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Es un documento general para aplicar a las ofertas laborales que te interesan. En él se desarrolla de manera extensa toda tu experiencia laboral y educativa más allá de los requisitos específicos puesto al que querés aplicar.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Un currículum debe contener:",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "El total de las experiencias educativas y laborales que desarrollaste a lo largo de tu vida.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Las experiencias educativas y laborales que se vinculen al puesto al que querés postularte. Pueden incluirse experiencias que no sean del área exclusivamente pero destacan tus habilidades y formación.",
+        "Devolucion": "Correcto",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Solo las experiencias educativas y laborales que sean del mismo área/puesto al que querés postularte.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Cuando ya realicé mi CV:",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No debo actualizarlo regularmente. Solo para agregar experiencia reciente.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Debo actualizarlo regularmente. Con un mismo CV puedo aplicar a todas las ofertas que me interesan",
+        "Devolucion": "Incorrecto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Debo actualizarlo regularmente y adaptarlo a cada postulación. Incluso puedo tener más de un CV en simultáneo.",
+        "Devolucion": "Correcto",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué tipos de cv existen? (podés elegir más de una opción)",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Currículum aleatorio: es aquel en el que la información se dispondrá sin un orden específico. Se colocan primero las experiencias que consideres más relevantes y, posteriormente, las menos relevantes",
+        "Devolucion": "Incorrecto",
+        "Estado": 0,
+        "Etiqueta": "checkbox"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Currículum cronológico inverso: en general, es el más usado. Como su nombre lo indica, aquí la información se estructura cronológicamente ubicando los estudios y/o experiencias profesionales desde las más actuales hasta las más antiguas.",
+        "Devolucion": "Correcto",
+        "Estado": 1,
+        "Etiqueta": "checkbox"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Currículum por áreas temáticas: este tipo de CV es utilizado por personas que han desempeñado dos tareas muy diversas dándole relevancia a los logros realizados en cada una de ellas y no tanto a las empresas o puestos ocupados. Esto te permite disimular períodos de tiempo en los que no has estado trabajando.",
+        "Devolucion": "Correcto",
+        "Estado": 1,
+        "Etiqueta": "checkbox"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Al momento de enviar el CV",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Lo adjunto como un archivo pdf con mi nombre y apellido en el asunto del mail. No es necesario agregar un texto.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Lo adjunto como archivo en formato pdf y agrego una breve presentación en el cuerpo del mail. En el asunto coloco lo que indique el aviso.",
+        "Devolucion": "Correcto",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Lo adjunto como archivo en formato word. En el mail a agrego una breve presentación y en el asunto coloco mi nombre y apellido.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    }
+]

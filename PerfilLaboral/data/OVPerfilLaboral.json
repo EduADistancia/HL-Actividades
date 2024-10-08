@@ -1,0 +1,121 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Cuando se hace referencia al perfil laboral habla de…",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Un párrafo que cuenta nuestra historia y nos sirve como presentación para enviar a un empleador/reclutador. No es necesario que la revise si inicio una nueva búsqueda.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Una construcción personal que podés realizar cuando inicias una búsqueda de empleo.Incluye experiencias, conocimientos y elementos tales como habilidades e intereses. Es personal, dinámica y te puede ayudar a definir tus áreas de mayor interés.",
+        "Devolucion": "Correcto",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Un listado de información que junta tu experiencia laboral y de estudios formales y volcás directamente dentro de tu CV.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Es una construcción personal que podés realizar a la hora de buscar empleo. Solo me conviene utilizarla si no cuento con experiencia para el armado del CV.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Al momento de realizar mi perfil es recomendable…",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Pensar y definir primero el área en la que querés trabajar e incluir en el armado las experiencias y conocimientos vinculados sólo a esa área.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Una construcción personal que podés realizar cuando inicias una búsqueda de empleo.Incluye experiencias, conocimientos y elementos tales como habilidades e intereses. Es personal, dinámica y te puede ayudar a definir tus áreas de mayor interés.",
+        "Devolucion": "Correcto",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Un listado de información que junta tu experiencia laboral y de estudios formales y volcás directamente dentro de tu CV.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Es una construcción personal que podés realizar a la hora de buscar empleo. Solo me conviene utilizarla si no cuento con experiencia para el armado del CV.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Al momento de realizar mi perfil es recomendable…",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Pensar y definir primero el área en la que querés trabajar e incluir en el armado las experiencias y conocimientos vinculados sólo a esa área.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Incluir todas las experiencias,objetivos y conocimientos previos aunque no tengas definido el área/puesto al que querés postularte ya que es una herramienta que puede servirte de insumo para orientar tu búsqueda.",
+        "Devolucion": "Correcto",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Incluir solo las experiencias laborales formales y los estudios académicos. El resto de información no aporta a mi perfil laboral a la hora de buscar empleo.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿La construcción del perfil laboral es una herramienta que puede sumar al momento de enfrentarte a una entrevista laboral?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Si",
+        "Devolucion": "¡Sí! Construir tu perfil es una herramienta útil para tener interiormente tu información ordenada y actualizada de una manera clara, lo cual puede ser de gran ayuda al momento de enfrentar una instancia de entrevista laboral. Recordá que es una instancia donde por ejemplo las habilidades y la información incluida en tu CV serán evaluadas.",
+        "Estado": 1,
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No",
+        "Devolucion": "Incorrecto",
+        "Estado": 0,
+        "Etiqueta": "radio"
+    }
+]

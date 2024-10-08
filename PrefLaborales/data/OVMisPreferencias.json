@@ -1,0 +1,102 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Me imagino en un trabajo…",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sin jefe",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con jefe/ sin jefe",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con horarios fijos",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con horarios flexibles",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "De jornada completa",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "De medio tiempo",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "De temporal",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "En el sector privado",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "En el sector público",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Solo",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "En equipo",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Creativo/sistemático y pausado",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sistemático y pausado",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con mucha responsabilidad",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con menos responsabilidad",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Con gente a cargo",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sin gente a cargo",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Presencial",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Virtual",
+        "Estado": 1
+    }
+]

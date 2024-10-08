@@ -1,0 +1,137 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué implica buscar empleo?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "La búsqueda de empleo es un trabajo en sí mismo. Requiere una inversión de tiempo específico, planificación y realizarlo de manera cotidiana. Se requiere esfuerzo y perseverancia en el proceso.",
+        "Devolucion": "¡Exacto! La búsqueda de empleo lleva tiempo, tiene que estar pensada desde tus necesidades e intereses, te recomendamos que ingreses al apartado de búsqueda de empleo y leas con detenimiento el plan de acción, que te ayudará a llevar adelante este proceso."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "La búsqueda de empleo implica entrar a portales o dirigirse a los lugares donde me gustaría trabajar y dejar/enviar el CV.",
+        "Devolucion": "La búsqueda de empleo implica todo eso, pero antes hay pasos previos, donde hay que pensar que necesitamos, qué objetivos tenemos y buscar información de los lugares donde nos gustaría postularse. En la introducción del módulo de búsqueda laboral te encontrarás con información valiosa para comenzar el proceso de búsqueda laboral."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué son los canales de búsqueda de trabajo?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Los canales de búsqueda son todos aquellos portales que me permiten ver ofertas laborales, cargar mi cv y enviarlo.",
+        "Devolucion": "Dentro de los canales de búsqueda se encuentran los portales de empleo, entre otras opciones también que nos permiten emprender la misma. Dentro del apartado canales de búsqueda podrás interiorizarte sobre las diversas opciones que existen."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Canal de búsqueda de empleo se le denomina a todos los sitios, lugares, contactos donde puedo encontrar ofertas y hacer postulaciones.",
+        "Devolucion": "Genial!, en el apartado de portales de empleo y consultoras podrás encontrar muchas opciones además de las más conocidas para realizar una búsqueda de empleo"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Networking ¿Qué es eso?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Es un portal de búsqueda",
+        "Devolucion": "El networking es el establecimiento de una red de contactos, te invitamos a leer el apartado para ver cómo establecerla y los beneficios que tiene a la hora de buscar empleo"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Es tu red de contactos",
+        "Devolucion": "¡Exacto! El networking tiene que ver con establecer redes entre tus contactos, te invitamos a profundizar sobre el tema y beneficiar tu búsqueda."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Qué rol juegan las redes sociales en la búsqueda de empleo?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Constituyen uno de los principales canales de búsqueda actualmente.",
+        "Devolucion": "¡Efectivamente! Las redes sociales hoy en día son un gran recurso para mostrarnos, volcar la experiencia y buscar ofertas. En el apartado de Redes sociales, vas a poder encontrar las más usadas y tutoriales de las mismas, como por ejemplo Linkedin."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Nos sirven para ofrecer productos y servicios si soy emprendedor.",
+        "Devolucion": "Para emprendedores las redes sociales hoy en día son un gran lugar para publicar allí productos o servicios, pero también para quienes estén buscando puestos en empresas, comercios, docencia, entre otros, hay cuentas de ofertas de empleo y además redes que permiten publicar la trayectoria y ayuda mucho a que empresas vean tu perfil. Te invitamos a profundizar sobre el tema en el apartado de Redes sociales, donde también encontrarás tutoriales de las redes más usadas."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "El proceso de selección comienza cuando el aspirante se presenta en la entrevista.",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Si",
+        "Devolucion": "El proceso de selección comienza cuando se envía el CV y la empresa/ reclutador selecciona los mismos. En este sentido es importante saber cómo funciona el inicio del proceso en el caso de los empleadores, para saber cómo se van a ir dando los pasos del proceso, en el apartado \"el reclutador\" nos da una idea para poder comprender esta etapa."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No",
+        "Devolucion": "El proceso de selección comienza cuando se envía el CV y la empresa/ reclutador selecciona los mismos. En este sentido es importante saber cómo funciona el inicio del proceso en el caso de los empleadores, para saber cómo se van a ir dando los pasos del proceso, en el apartado \"el reclutador\" nos da una idea para poder comprender esta etapa."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Pasar bien una entrevista",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "Las entrevistas también se dan de forma grupal en algunos casos, te invitamos a leer tips para entrevista grupal y continuar con los apartados de entrevista, donde vas a encontrar informacion para prepararte para estas instancias."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "Las entrevistas pueden ser individuales y grupales, ambas instancias son importantes, te invitamos a leer tips para entrevista grupal y continuar con los apartados de entrevista, donde vas a encontrar informacion para prepararte para estas instancias."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Antes de postularme tengo que cerciorarme del salario que ofrecen por el puesto.",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "Es importante tener en cuenta que el salario se adapte a nuestras necesidades y es un tema que siempre resulta incómodo abordar, por eso te invitamos a leer las recomendaciones y sugerencias sobre cómo hablar del tema."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "Es importante tener en cuenta que el salario se adapte a nuestras necesidades y es un tema que siempre resulta incómodo abordar, por eso te invitamos a leer las recomendaciones y sugerencias sobre cómo hablar del tema."
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Prepararme para la entrevista, ¿Qué preguntas me pueden hacer?",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No tengo idea.",
+        "Devolucion": "A veces es difícil, se tiende a \"adivinar\" que nos van a preguntar y muchas veces nos sorprenden en ese momento. Por eso te sugerimos leer el apartado ¿Que te pueden preguntar en una entrevista? para ir preparado/a"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Ya pase por entrevistas y se que preguntan de todo.",
+        "Devolucion": "Es cierto, que muchas veces las empresas son exhaustivas con las preguntas que hacen, con el fin de buscar alguien que se adapte al puesto de trabajo. Para profundizar sobre el tema te recomendamos la lectura del apartado ¿Que te pueden preguntar en una entrevista?"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Quedar o no quedar en el puesto depende principalmente de cómo nos desempeñemos en la entrevista laboral.",
+        "Devolucion": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Verdadero",
+        "Devolucion": "El desempeño en una instancia de entrevista no es lo único que se contempla, el post entrevista es importante también, en el apartado podes encontrar información de pasos a seguir en esta última etapa."
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Falso",
+        "Devolucion": "El desempeño en una instancia de entrevista no es lo único que se contempla, el post entrevista es importante también, en el apartado podes encontrar información de pasos a seguir en esta última etapa."
+    }
+]

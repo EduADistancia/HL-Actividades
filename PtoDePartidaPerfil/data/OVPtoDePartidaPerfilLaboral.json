@@ -1,0 +1,226 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿ Alguna vez escuchaste hablar de perfil laboral?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Si",
+        "Devolucion": "¡Buenisimo! Si estás al tanto de qué es un perfil laboral en este curso podés detenerte en el apartado \"cómo se conforma el perfil laboral\" que te puede servir de insumo para actualizarlo o profundizar en este ejercicio de autoconocimiento sobre tus experiencias, habilidades e intereses laborales. Es un buen punto de partida para iniciar tu búsqueda laboral.",
+        "Estado": "",
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No",
+        "Devolucion": "El perfil laboral es una construcción personal que se realiza en el contexto de la búsqueda laboral. Integra las experiencias de la persona en los diferentes ámbitos de la vida, incluye sus conocimientos e incorpora diversos elementos subjetivos tales como habilidades e intereses. Te recomendamos prestar especial atención como punto de partida a los apartados \"¿De qué hablamos cuando nos referimos al Perfil laboral?\", \"¿Qué debés tener en cuenta al momento de elaborar tu perfil laboral?\" y \"¿Cómo se conforma el perfil laboral?\", donde vas a encontrar la información concreta para construir tu propio perfil.",
+        "Estado": "",
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuál crees que es la finalidad de construir tu perfil laboral?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "El perfil laboral es un ejercicio de autoconocimiento que te servirá de insumo para focalizar tu búsqueda y el armado de tu CV. Sirve como punto de partida para emprender una búsqueda laboral, siendo una gran herramienta para el autoconocimiento y para orientar la búsqueda.",
+        "Devolucion": "¡Exacto!, para profundizar en el armado del mismo te recomendamos detenerte en el apartado de \"¿Qué debés tener en cuenta al momento de elaborar tu perfil laboral?\" y \"¿Cómo se conforma el perfil laboral?\" donde vas a encontrar la información concreta para construir tu propio perfil.",
+        "Estado": "",
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "El perfil es una herramienta muy útil para que un empleador pueda leer de forma rápida y concreta el recorrido laboral realizado por la persona que se está postulando.",
+        "Devolucion": "El perfil laboral no tiene como finalidad ser visto por el empleador. Es un ejercicio de autoconocimiento que te servirá de insumo para focalizar tu búsqueda y el armado de tu CV. Sirve como punto de partida para emprender una búsqueda laboral, siendo una gran herramienta para el autoconocimiento y para orientar la búsqueda.Para conocer en profundidad para qué sirve construir tu perfil te recomendamos detenerte en el apartado \"¿De qué hablamos cuando hablamos de perfil laboral?\".",
+        "Estado": "",
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿En este momento tenés definido qué tipo de trabajo querés buscar?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Cualquier trabajo me viene bien en este momento, no tengo nada definido.",
+        "Devolucion": "En este caso te recomendamos que prestes especial atención al apartado dentro de perfil laboral donde podrás encontrar herramientas para explorar cuáles son tus expectativas laborales, en qué tipo de trabajo te proyectás y a partir de eso qué tipo de trabajo querés buscar.",
+        "Estado": "",
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Tengo en claro mi objetivo y se que tipo de trabajo pretendo encontrar",
+        "Devolucion": "¡Buenisimo! Es un gran paso que tengas definido el tipo de trabajo que estás buscando, podés aprovechar las herramientas que te ofrece el curso para construir tu perfil laboral de manera más exhaustiva y a partir de ahí pulir y adaptar tu CV de acuerdo a tus intereses.",
+        "Estado": "",
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No sabía que era necesario establecer algunas pautas/objetivos previos para comenzar mi búsqueda.",
+        "Devolucion": "Al momento de empezar una búsqueda laboral es importante que puedas reflexionar acerca de tus intereses, habilidades, conocimientos, etc para focalizar esa búsqueda y lograr así realizar un CV acorde a tus objetivos. A medida que avances en los episodios del módulo vas a encontrar herramientas que te van a permitir construir tu perfil profesional y tu CV.",
+        "Estado": "",
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Tenés armado tu CV?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Si",
+        "Devolucion": "¡Genial! Es un gran punto de partida para tu proceso de búsqueda. A medida que recorras el módulo vas a ir descubriendo herramientas que te pueden ayudar a pulir y actualizar tu CV de acuerdo a tus objetivos y tipo de trabajo que estás buscando. Prestá especial atención a los apartados \"Información que debe contener el CV\" y \"Tipos de CV\" donde vas a encontrar información útil para potenciarlo.",
+        "Estado": "",
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No",
+        "Devolucion": "¡No te preocupes! A medida que recorras el curso vas a poder encontrar la información que necesitás para interiorizarte sobre el armado de tu CV de acuerdo a tus objetivos y tipo de trabajo que querés buscar. Prestale especial atención al apartado sobre \"Definición de CV\" e \"Información que debe contener\" como punto de partida para confeccionarlo.",
+        "Estado": "",
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Considerás que el CV debe adaptarse de acuerdo a la oferta a la que vas a postularte?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre debe adaptarse",
+        "Devolucion": "Si bien no hay una regla general que lo defina, es importante que al momento de postularte a una oferta puedas revisar tu CV y realizar los ajustes que sean necesarios para adaptarlo a esa búsqueda, eso no significa que siempre tengas que modificarlo. En el módulo vas a acceder a información concreta sobre \"Apartados que debe contener un curriculum\", \"Palabras claves para incluir en el CV\" y \"Plantillas y apps para armar tu CV\".",
+        "Estado": "",
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "En algunas ocasiones",
+        "Devolucion": "Si bien no hay una regla general que lo defina, es importante que al momento de postularte a una oferta puedas revisar tu CV y realizar los ajustes que sean necesarios para adaptarlo a esa búsqueda, eso no significa que siempre tengas que modificarlo. En el módulo vas a acceder a información concreta sobre \"Apartados que debe contener un curriculum\", \"Palabras claves para incluir en el CV\" y \"Plantillas y apps para armar tu CV\".",
+        "Estado": "",
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Siempre se puede utilizar el mismo CV",
+        "Devolucion": "Si bien no hay una regla general que lo defina, es importante que revises tu CV cuando te postules a una oferta y realices los ajustes que sean necesarios para adaptarlo a esa búsqueda, eso no significa que siempre tengas que modificarlo. En algunas ocasiones se puede tener mas de un CV. En el módulo vas a acceder a información concreta sobre \"Apartados que debe contener un curriculum\", \"Palabras claves para incluir en el CV\" y \"Plantillas y apps para armar tu CV\".",
+        "Estado": "",
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Cuáles de los siguientes ítems consideras que son importantes incluir en el CV?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Genero",
+        "Devolucion": "No es necesario",
+        "Estado": 0,
+        "Etiqueta": "checkbox"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "DNI",
+        "Devolucion": "¡Perfecto! Es importante incluirlo en el CV para establecer el contacto.",
+        "Estado": 1,
+        "Etiqueta": "checkbox"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Foto",
+        "Devolucion": "No es necesario",
+        "Estado": 0,
+        "Etiqueta": "checkbox"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Ciudad",
+        "Devolucion": "¡Perfecto! Es importante incluirlo en el CV para establecer el contacto.",
+        "Estado": 1,
+        "Etiqueta": "checkbox"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Domicilio",
+        "Devolucion": "No es necesario",
+        "Estado": 0,
+        "Etiqueta": "checkbox"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Mail",
+        "Devolucion": "¡Perfecto! Es importante incluirlo en el CV para establecer el contacto.",
+        "Estado": 1,
+        "Etiqueta": "checkbox"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Telefono",
+        "Devolucion": "¡Perfecto! Es importante incluirlo en el CV para establecer el contacto.",
+        "Estado": 1,
+        "Etiqueta": "checkbox"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Estado civil",
+        "Devolucion": "No es necesario",
+        "Estado": 0,
+        "Etiqueta": "checkbox"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Es importante incluir los datos mencionados anteriormente en el CV?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Si",
+        "Devolucion": "En este punto es importante tener en cuenta que no hay múltiple formas de armar y presentar un CV. Durante el recorrido por el módulo te podés detener en el apartado \"Datos personales\" donde vas a encontrar información precisa en cuanto a los ítems optativos y los que si o si deben incluirse para que tu CV sea tenido en cuenta en una postulación. En el apartado de \"La estructura del CV\" se incluye un apartado de \"información e items extra que podés incluir\", esa información es fundamental para potenciar tu CV.",
+        "Estado": "",
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No",
+        "Devolucion": "Algunos de los ítems mencionados son de carácter optativo como la foto o incluso no es recomendable incluirlos como la dirección exacta, estado civil y género. En este sentido para profundizar te invitamos a navegar el apartado de \"Datos personales\" e \"información e items extra que podés incluir\". Si bien no hay un único modelo de CV correcto es importante tener en cuenta ciertos aspectos que te permitirán seleccionar la información más relevante para la construcción de tu CV.",
+        "Estado": "",
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Escuchaste hablar de palabras clave en el CV?",
+        "Devolucion": "",
+        "Estado": "",
+        "Etiqueta": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Si",
+        "Devolucion": "¡Genial!. Las palabras clave en el currículum , son usadas por reclutadores en los requisitos de la descripción de empleo para buscar a candidatos ideales. Con ellas, logran determinar de manera rápida quiénes se adaptan más al perfil profesional que la empresa está buscando. Por lo tanto este es un punto muy importante a tener en cuenta en el armado de tu CV ya que te va a permitir adaptarlo al área/ puesto/tarea que buscás y potenciar el impacto cuando sea leído por el reclutador. Durante el curso presta especial atención a los apartados \"CV y la inteligencia artificial\" y \"Palabras claves para incluir en el CV\".",
+        "Estado": "",
+        "Etiqueta": "radio"
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No",
+        "Devolucion": "Es importante tener en cuenta que las palabras clave en el currículum , son usadas por reclutadores en los requisitos de la descripción de empleo para buscar a candidatos ideales. Con ellas, logran determinar de manera rápida quiénes se adaptan más al perfil profesional que la empresa está buscando. Por es muy importante incluirlas en el armado de tu CV ya que te va a permitir adaptarlo al área/ puesto/tarea que buscás y potenciar el impacto cuando sea leído por el reclutador. Durante el curso presta especial atención a los apartados \"CV y la inteligencia artificial\" y \"Palabras claves para incluir en el CV\".",
+        "Estado": "",
+        "Etiqueta": "radio"
+    }
+]
