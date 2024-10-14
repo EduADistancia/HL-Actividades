@@ -1,0 +1,80 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "A partir de la información que tenés sobre ella, ¿cuáles de los siguientes enunciados incluirías si tuvieras que construir el perfil de Olivia?",
+        "Devolucion": "No corresponde",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Secundario completo con orientación en Cs Naturales",
+        "Devolucion": "Correcta",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Curso de maquillaje virtual",
+        "Devolucion": "Incorrecta",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Capitana del equipo de Voley del club Ferro",
+        "Devolucion": "Correcta",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Realización de prácticas profesionalizantes en el centro de salud N 2",
+        "Devolucion": "Correcta",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Trabajo en equipo",
+        "Devolucion": "Correcta",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Trabajo de jornada completa",
+        "Devolucion": "Incorrecta",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Curso autoasistido de photoshop",
+        "Devolucion": "Correcta",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Posee experiencia en atención al cliente en negocio de ropa",
+        "Devolucion": "Incorrecta",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Idioma Francés intermedio",
+        "Devolucion": "Incorrecta",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Idioma Inglés intermedio",
+        "Devolucion": "Correcta",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Cursando la Tecnicatura de enfermería",
+        "Devolucion": "Correcta",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Le interesa un trabajo de pocas horas en el área salud",
+        "Devolucion": "Correcta",
+        "Estado": 1
+    }
+]
