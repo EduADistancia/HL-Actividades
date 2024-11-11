@@ -1,0 +1,68 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "La búsqueda de empleo…",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Se puede realizar en tus ratos libres e ir enviando postulaciones cuando recibimos algún aviso que nos llame la atención. En cuanto al CV podemos utilizar un modelo general.",
+        "Devolucion": "No es correcto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Representa un trabajo en sí mismo, requiere tiempo,constancia, un análisis personal, perseverancia y esfuerzo para enfrentar esta tarea. Es conveniente tener un CV realizado con anterioridad que podamos adaptar a la postulación.",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No es necesario realizar una búsqueda específica. Sí mencionar en nuestro entorno que estamos buscando empleo y estar atentos a alguna oportunidad. Allí ajustar nuestro CV y enviarlo.",
+        "Devolucion": "No es correcto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Cuando inicio el proceso de búsqueda...",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Es conveniente acotar los canales búsqueda.",
+        "Devolucion": "No es correcto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Conviene intentar utilizar la mayor cantidad de canales de búsqueda disponibles.",
+        "Devolucion": "No es correcto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Debo tener en cuenta que acotar o expandir la cantidad de canales es relativo al empleo que busque.",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Si decido utilizar mis redes sociales de forma profesional o con un fin comercial...",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Debo utilizar un perfil creado con ese fin específico",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Puedo utilizar mis redes personales y volcar allí también cuestiones profesionales",
+        "Devolucion": "No es correcto.",
+        "Estado": 0
+    }
+]

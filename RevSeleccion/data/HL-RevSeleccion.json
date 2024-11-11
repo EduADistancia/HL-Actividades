@@ -1,0 +1,68 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Cuando nos referimos a proceso de selección hablamos de:",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Un proceso que va desde que armamos nuestro perfíl laboral hasta el momento que nos llaman para la entrevista, en ese lapso de tiempo es importante capacitarse y tener espacios de autoconocimiento para estar preparado a la hora de tener la entrevista.",
+        "Devolucion": "No es correcto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "El proceso de selección implica una serie de pasos que comienza un empleador y que finaliza con la contratación del personal. Esto va desde ver que puesto se necesita cubrir, publicar un anuncio, hasta la seleccion luego de un proceso de entrevistas.",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Es un proceso exhaustivo que emprende el empleador, implica varias etapas de entrevistas para poder dar con un candidato que cumpla con todos los requisitos para un puesto determinado.",
+        "Devolucion": "No es correcto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Al momento de presentarse en una entrevista es recomendable:",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Pensar y definir qué es lo que queremos contar de nosotros, explayarse lo más posible para demostrar que nos interesa el puesto y sabemos del tema.",
+        "Devolucion": "No es correcto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Indagar sobre la empresa a la cual nos estamos postulando, leer con atención el anuncio, estar unos minutos antes para prepararse y estar tranquilo/a, repasar porque aplicamos a ese puesto y que tenemos para aportar.",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Ir bien vestido, indagar sobre la empresa a la cual te estás postulando, tener en cuenta que puede haber más postulantes, por lo tanto tenes que pensar un discurso que demuestre que sos único/a para ese puesto.",
+        "Devolucion": "No es correcto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Es necesario consultar sobre el salario antes de aceptar la entrevista?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Sí",
+        "Devolucion": "No es correcto.",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "No",
+        "Devolucion": "¡Correcto!",
+        "Estado": 1
+    }
+]

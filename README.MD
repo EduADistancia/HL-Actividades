@@ -8,3 +8,5 @@ Vista de actividades:
 - [Actividad - Armado de perfil de Olivia](https://eduadistancia.github.io/HL-Actividades/PerfilOlivia/)
 - [Cuestionario CV](https://eduadistancia.github.io/HL-Actividades/CuestionarioCV/)
 - [Preferencias laborales](https://eduadistancia.github.io/HL-Actividades/PrefLaborales/)
+- [Cuestionario de revisión: Búsqueda Laboral](https://eduadistancia.github.io/HL-Actividades/RevBusqueda)
+- [Cuestionario de revisión: Proceso de Selección](https://eduadistancia.github.io/HL-Actividades/RevSeleccion)
