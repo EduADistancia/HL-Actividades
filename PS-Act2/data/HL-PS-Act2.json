@@ -1,0 +1,110 @@
+[
+    {
+        "Tipo": "Pregunta",
+        "Texto": "Contanos un poco sobre vos…",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Contar sobre vos dentro del ámbito laboral, trayectoria, como te manejaste en otras experiencias laborales y aspectos que puedan ser interesantes para el puesto que estás aplicando",
+        "Devolucion": "Correcto",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Contar sobre tu familia, gustos, hobbies, habilidades que creas puedan servir al puesto laboral al que estas aplicando.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Porque querés obtener este trabajo?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Juan debería destacar sus fortalezas que puedan dar valor al puesto de trabajo específico, mencionar aspectos de la empresa que le parezcan interesantes y que lo motivan a trabajar allí y no en otro lugar y por último cuestiones que tengan que ver con el área específica laboral",
+        "Devolucion": "Correcto",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "En la respuesta Juan debería destacar los valores de la empresa que le llamaron la atención, como así también mencionar que a él le interesa el área de trabajo específica y destacar que le interesa el salario que menciona el aviso.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Con qué fortalezas contas que puedan aportar al puesto y a la empresa?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Mencionar las habilidades que se destacaban en el anuncio y hacerlas propias, ya que eso es lo que está buscando la empresa.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Tener un buen autoconocimiento que permita poder contar las fortalezas poniendo ejemplos de cómo lo aplicarías en el puesto de trabajo, como así también mencionar algunas debilidades y cómo estas trabajando con ellas, por ejemplo, haciendo una capacitación.",
+        "Devolucion": "Correcto",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Por qué deberíamos contratarte?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Menciona tus fortalezas vinculadas al puesto al que estás aplicando. Estas fortalezas, conviene que las ejemplifiques con ejemplos de cómo las desarrollaste. La respuesta tiene que resumir por qué estás aplicando al puesto.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Menciona tus fortalezas vinculadas al puesto al que estás aplicando. Estas fortalezas, conviene que las ejemplifiques con ejemplos de cómo las desarrollaste. Esta respuesta tiene que resumir tus características positivas, que te hacen ser la persona más adecuada para este puesto y te diferencian de los demás postulantes.",
+        "Devolucion": "Correcto",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Por qué decidiste reorientarte y vas a dejar tu trabajo actual?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Mencionar aprendizajes que te dejaron las experiencias anteriores, hacer foco en que querés un nuevo desafío en tu vida y que te estuviste preparando para eso.",
+        "Devolucion": "Correcto",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Mencionar los aprendizajes y cosas que te fueron desgastando en tus experiencias anteriores y te hicieron tomar la decisión de reorientarte laboralmente, mencionando siempre que apuntas a nuevos desafíos y emprender cosas nuevas.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Pregunta",
+        "Texto": "¿Tenés alguna pregunta más para realizarnos?",
+        "Devolucion": "",
+        "Estado": ""
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Preguntar por dudas que tengas de la empresa o del puesto, como qué tareas específicas tendrá el puesto de trabajo o por el organigrama de la empresa. Algún aspecto que creas que haya quedado pendiente en la entrevista y creas que pueda ser de tu beneficio hablarlo.",
+        "Devolucion": "Correcto",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Preguntar por las incumbencias de tu puesto, el salario o beneficios que tenga la empresa.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    }
+]

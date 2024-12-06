@@ -1,0 +1,44 @@
+[
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Te recomendamos que contestes el mail enviando una carta de presentación, además de avisar que estarás allí para la entrevista.",
+        "Devolucion": "Correcto",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Juan debería llegar 10:45 para no parecer que está desesperado por el puesto de trabajo.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Juan tendría que recabar información de la empresa a la cual aplicó y buscar sobre la consultora que lo entrevistará.",
+        "Devolucion": "Correcto",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Tiene que ir de traje si o si y bien perfumado.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Antes que nada, Juan debería consultar la remuneración del puesto de trabajo.",
+        "Devolucion": "Incorrecto",
+        "Estado": 0
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Es mejor si llega unos minutos antes para estar tranquilo y prepararse.",
+        "Devolucion": "Correcto",
+        "Estado": 1
+    },
+    {
+        "Tipo": "Respuesta",
+        "Texto": "Aunque no se lo pidieron, por las dudas conviene que lleve su CV impreso y documento de identidad.",
+        "Devolucion": "Correcto",
+        "Estado": 1
+    }
+]
